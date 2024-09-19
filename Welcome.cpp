@@ -3,9 +3,7 @@ using namespace std;
 
 int main ()
 {
-    cout << "Hello World";
-    cout << "I hate the Git extension";
-    //8675309
+    cout << "Welcome Tim Robinson. You are in the year 3000.";
     return 0;
 }
 
